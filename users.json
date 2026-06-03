@@ -1,0 +1,28 @@
+{
+  "users": {
+    "1": {
+      "user_id": 1383186462,
+      "first_name": "\ud835\udd4f\ud835\udd52\ud835\udd5c\ud835\udd5a\ud835\udd5e\ud835\udd60\ud835\udd67 \ud835\udd38\ud835\udd5d\ud835\udd5d\ud835\udd52\ud835\udd5e\ud835\udd66\ud835\udd63\ud835\udd60\ud835\udd55",
+      "last_name": null,
+      "username": "allamurod_2806",
+      "created_at": "2026-04-28T05:46:20+00:00",
+      "role": "admin"
+    },
+    "2": {
+      "user_id": 1108278307,
+      "first_name": "Mashhura \u0130MOMOVA",
+      "last_name": null,
+      "username": "M_Imomova",
+      "created_at": "2026-04-29T09:46:12+00:00",
+      "role": "user"
+    },
+    "3": {
+      "user_id": 5636025731,
+      "first_name": "Sardor",
+      "last_name": "Rustamov",
+      "username": null,
+      "created_at": "2026-04-29T10:51:52+00:00",
+      "role": "user"
+    }
+  }
+}
