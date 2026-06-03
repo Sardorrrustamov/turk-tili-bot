@@ -1,4 +1,6 @@
 # 🇹🇷 Turkcha So'z O'rganish Telegram Boti - V2.0
+# MUALIF: Xakimov Allamurod
+  https://github.com/khakimovallamurod/turkish-vocab-bot
 
 Turkcha til o'rganish uchun yaratilgan telegram bot.  
 **python-telegram-bot v22** ga mos yozilgan.
